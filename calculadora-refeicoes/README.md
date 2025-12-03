@@ -23,5 +23,13 @@ A Calculadora de Refeições é um site criado para facilitar a escolha e montag
 3. Abra o arquivo index.html no navegador
 
 ## Acesse o projeto online: 
+https://gabrielasousasilva68.github.io/senac/calculadora-refeicoes/
 
+## Como clonar o projeto
+ No terminal do VS Code digite:
+git clone https://gabrielasousasilva68.github.io/senac/calculadora-refeicoes/
+No GitHub Desktop:
+  No menu: File(Arquivo)>Clone o repositor(Clonar repositório)>Selecione a aba URL, no campo URL, cole o link do repositório
+
+## Desenvolvido por Gabriela de Sousa Silva 
  
