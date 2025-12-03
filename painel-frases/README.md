@@ -17,3 +17,17 @@ O Painel de Frases é um site desenvolvido para gerar frases motivacionais de fo
 - CSS 
 - JavaScript
 - GitHub 
+
+## Como rodar o projeto
+1. Baixe o repositório (Clique no Botão "Code">Download ZIP)
+2. Extraia a pasta
+3. Abra o arquivo index.html no navegador
+
+## Acesse o projeto online: 
+https://gabrielasousasilva68.github.io/senac/painel-frases/
+
+## Como clonar o projeto
+ No terminal do VS Code digite:
+git clone https://gabrielasousasilva68.github.io/senac/painel-frases/
+No GitHub Desktop:
+  No menu: File(Arquivo)>Clone o repositor(Clonar repositório)>Selecione a aba URL, no campo URL, cole o link do repositório
