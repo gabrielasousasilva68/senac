@@ -1,4 +1,4 @@
-# 🧮 Calculadora de Descontos
+# 📟 Calculadora de Descontos
 A Calculadora de Descontos é um site desenvolvido para facilitar o cálculo de descontos de forma rápida, prática e intuitiva. O usuário informa o valor do produto e a porcentagem de desconto, e o sistema retorna automaticamente o valor final a pagar.
 
 ## Funcionalidades
