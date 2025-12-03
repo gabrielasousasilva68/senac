@@ -20,7 +20,7 @@ Feedback instantâneo para o usuário
 - style.css
 - script.js
 - README.md
-- 
+
 ## Objetivo do Projeto
 Este projeto foi criado para treinar habilidades em JavaScript, CSS, e manipulação de dados inseridos pelo usuário. É ideal como exercício para iniciantes em desenvolvimento web.
 
