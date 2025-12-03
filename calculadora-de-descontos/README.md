@@ -45,3 +45,4 @@ git clone https://gabrielasousasilva68.github.io/senac/calculadora-de-descontos/
 No GitHub Desktop:
   No menu: File(Arquivo)>Clone o repositor(Clonar repositório)>Selecione a aba URL, no campo URL, cole o link do repositório
 ## Desenvolvido por Gabriela de Sousa Silva
+Turma de Tecnologia em Informática para Internet Vespertino - Senac DF
