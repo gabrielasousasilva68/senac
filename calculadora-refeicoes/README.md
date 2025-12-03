@@ -16,10 +16,11 @@ Página criada para informar, destacar e atualizar os usuários com conteúdos v
 O site Three News foi criado para oferecer ao usuário uma experiência simples, direta e organizada ao acompanhar notícias. A página apresenta conteúdos atualizados e dispostos por categorias, permitindo uma navegação ágil e eficiente. Seu layout responsivo garante boa visualização tanto no computador quanto no celular, enquanto o design limpo facilita a leitura das manchetes e informações principais. O objetivo do projeto é entregar um portal funcional, moderno e acessível para quem busca informação rápida e confiável.
 
 ## Ferramentas Utilizadas
--CSS
--HTML
--JavaScript
--GitHub
+- CSS
+- HTML
+- JavaScript
+- GitHub
+- VS Code
 
 ## Como rodar o projeto
 1. Baixe o repositório (Clique no Botão "Code">Download ZIP)
