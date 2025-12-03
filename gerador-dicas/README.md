@@ -17,11 +17,11 @@ Um site criado para inspirar, motivar e oferecer pequenos conselhos aleatórios 
 3. Abra o arquivo index.html no navegador
 
 ## Acesse o projeto online: 
- https://gabrielasousasilva68.github.io/gerador-dicas/
+ https://gabrielasousasilva68.github.io/senac/gerador-dicas/
 
 ## Como clonar o projeto
  No terminal do VS Code digite:
-      git clone https://github.com/gabrielasousasilva68/gerador-dicas.git
+      git clone https://gabrielasousasilva68.github.io/senac/gerador-dicas/
  No GitHub Desktop:
   No menu: File(Arquivo)>Clone o repositor(Clonar repositório)>Selecione a aba URL, no campo URL, cole o link do repositório
 
