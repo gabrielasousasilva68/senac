@@ -1,0 +1,54 @@
+form#formulario {
+    display: flex;
+    padding: 20px;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: space-evenly;
+    align-items: stretch;
+}
+
+footer {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    background-color: rgb(121, 65, 121);
+    justify-content: center;
+}
+
+body {
+    padding: 20px;
+}
+
+section {
+    width: 300px;
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-evenly;
+    align-items: stretch;
+    margin: 0 auto;
+}
+
+.concluida {
+    text-decoration: line-through;
+    opacity: 0.7;
+    transition: 0.3s ease;
+}
+.concluida .meta-titulo,.concluida .meta-descricao,.concluida .meta-info {
+    text-decoration: line-through;
+}
+form#formMeta {
+    display: flex;
+    flex-direction: column;
+    align-content: flex-start;
+    justify-content: flex-end;
+    align-items: stretch;
+}

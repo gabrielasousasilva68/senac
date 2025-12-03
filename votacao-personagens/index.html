@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Votação</title>
+    <link rel="stylesheet" href="./css/style.css" />
+</head>
+
+<body>
+    <header>
+        <h1>Sistema de votação de personagens</h1>
+    </header>
+    <main>
+        <section>
+            <p>
+                Olá, usuário! Lembre-se: no nosso site, cada pessoa pode votar apenas
+                em um personagem. Escolha seu favorito com cuidado e aproveite a votação!
+            </p>
+            <form>
+                <select id="select-personagem">
+                    <option value="">-- Selecione um personagem --</option>
+                    <option>Dustin</option>
+                    <option>Eleven</option>
+                    <option>Mike</option>
+                    <option>Lucas</option>
+                    <option>Will</option>
+                    <option>Max</option>
+                    <option>Hopper</option>
+                    <option>Nancy</option>
+                    <option>Steve</option>
+                </select>
+                <button type="button" id="btn-votar">
+                    Votar
+                </button>
+            </form>
+            <div id="erro"></div>
+        </section>
+        <div>
+            <section id="ranking">
+                <h2>Ranking</h2>
+                <ul id="lista-ranking"></ul>
+            </section>
+        </div>
+    </main>
+    <footer>
+        <p>&copy; Gabriela de Sousa Silva - 17/11/2025</p>
+    </footer>
+    <script src="./js/script.js"></script>
+</body>
+
+</html>
