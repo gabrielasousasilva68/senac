@@ -32,12 +32,10 @@ Este projeto foi criado para treinar habilidades em JavaScript, CSS, e manipula�
 - Veja instantaneamente o resultado na tela
 
 ## Como rodar o projeto
-- Baixe o reposit처rio (Clique no Bot찾o "Code">Download ZIP)
-- Extraia a pasta
-- Abra o arquivo index.html no navegador
-Acesse o projeto online:
-https://gabrielasousasilva68.github.io/senac/calculadora-refeicoes/
+1. Baixe o reposit처rio (Clique no Bot찾o "Code">Download ZIP)
+2. Extraia a pasta
+3. Abra o arquivo index.html no navegador
 
-Como clonar o projeto
-No terminal do VS Code digite: git clone https://gabrielasousasilva68.github.io/senac/calculadora-refeicoes/ No GitHub Desktop: No menu: File(Arquivo)>Clone o repositor(Clonar reposit처rio)>Selecione a aba URL, no campo URL, cole o link do reposit처rio
+## Acesse o projeto online: 
+https://gabrielasousasilva68.github.io/senac/calculadora-de-descontos/
 ## Desenvolvido por Gabriela de Sousa Silva
