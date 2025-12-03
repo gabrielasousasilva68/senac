@@ -38,4 +38,10 @@ Este projeto foi criado para treinar habilidades em JavaScript, CSS, e manipula�
 
 ## Acesse o projeto online: 
 https://gabrielasousasilva68.github.io/senac/calculadora-de-descontos/
+
+## Como clonar o projeto
+ No terminal do VS Code digite:
+git clone https://gabrielasousasilva68.github.io/senac/calculadora-de-descontos/
+No GitHub Desktop:
+  No menu: File(Arquivo)>Clone o repositor(Clonar repositório)>Selecione a aba URL, no campo URL, cole o link do repositório
 ## Desenvolvido por Gabriela de Sousa Silva
