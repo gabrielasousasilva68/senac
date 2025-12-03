@@ -49,4 +49,4 @@ https://gabrielasousasilva68.github.io/senac/votacao-personagens/
   No menu: File(Arquivo)>Clone o repositor(Clonar repositório)>Selecione a aba URL, no campo URL, cole o link do repositório
 
 ## Desenvolvido por Gabriela de Sousa Silva 
- Turma de Tecnologia em Informática para Internet Vespertino - Senac DF
+ Turma de Tecnologia em Informática para Internet matutino  - Senac DF
