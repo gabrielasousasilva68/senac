@@ -4,14 +4,14 @@ O Painel de Metas é um site criado para ajudar o usuário a organizar seus obje
 ## Objetivo do Projeto
 - Criar um sistema simples e eficiente para organizar metas pessoais ou estudantis.
 - Facilitar o registro de objetivos com título, descrição, prioridade e data limite.
-- mTornar o processo visual, rápido e dinâmico, incentivando o usuário a concluir suas metas.
+- Tornar o processo visual, rápido e dinâmico, incentivando o usuário a concluir suas metas.
 
 ## Funcionalidades
 - Adicionar metas: o usuário preenche título, descrição, prioridade e data.
 - Ao clicar em Adicionar Meta, a meta aparece automaticamente abaixo do formulário.
 - Cada meta possui dois botões:
-## Concluir — aplica uma animação que risca o texto no meio, marcando a meta como finalizada.
-## Remover — exclui a meta imediatamente da lista.
+-  Concluir — aplica uma animação que risca o texto no meio, marcando a meta como finalizada.
+- Remover — exclui a meta imediatamente da lista.
 - Design organizado, intuitivo e totalmente responsivo.
 - Feedback visual claro, ajudando o usuário a manter controle do que já realizou.
 
